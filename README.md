@@ -3,7 +3,7 @@ My art is a article.
 
 # "Am I Stuck in the past? Blockchain vs Sentiment." 
 
-Above is the title of my article, in form a story, where I explained my experience with a new ecosystem consuming my old one and calling others like me to explore this ecosystem as I planned to do.
+Above is the title of my article, in form a story. It explains my experience with a new ecosystem consuming my old one and calling others like me to explore this ecosystem as I planned to do. It's shows the feeling of many crypto newbies who find it hard to accept the reality of blockchain and shows opportunities for almost everyone on the blockchain. I've tried to add interlinks to keywords that will help readers understand the jargons and help their acceptance of this new reality. You could say, it's a story to guide crypto newbies.
 
 # Link to Article below
 https://link.medium.com/hADWt1KGxhb
